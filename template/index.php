@@ -3,7 +3,7 @@
 	<head>
 
 		<!-- Title -->
-		<title>UwU ur compwter is infectd >-<</title>
+		<title>OSSP | Open Source Scammer Popup</title>
 
 		<!-- Favicons -->
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/images/icons/favicons/apple-touch-icon.png">
@@ -23,7 +23,7 @@
 			<!-- Message -->
 			<script>
 
-				setTimeout(function(){ alert("0w0 ur compwtter has a wirus plz call owr number nya 1-800-273-8255"); }, 2000);
+				setTimeout(function(){ alert("Please modify this alert in the index.html file."); }, 2000);
 
 			</script>
 
