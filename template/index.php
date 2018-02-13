@@ -18,7 +18,7 @@
 	</head>
 
 	<!-- Background Image -->
-	<body background="assets/images/backgrounds/main.png" style="background-size: cover">
+	<body background="assets/images/backgrounds/main.png" style="background-size: auto">
 
 			<!-- Message -->
 			<script>
