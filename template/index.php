@@ -5,7 +5,7 @@
 		<!-- Title -->
 		<title>OSSP | Open Source Scammer Popup</title>
 
-		<!-- Favicons -->
+		<!-- Favicons (Tab icons) -->
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/images/icons/favicons/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/images/icons/favicons/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/images/icons/favicons/favicon-16x16.png">
@@ -17,9 +17,9 @@
 
 	</head>
 
-	<!-- Background Image -->
+	<!-- If the popup is zoomed in or out, replace the word "auto" with "cover". -->
 	<body background="assets/images/backgrounds/main.png" style="background-size: auto">
-
+			
 			<!-- Message -->
 			<script>
 
@@ -27,10 +27,12 @@
 
 			</script>
 
-	<!-- Audio -->
-	<audio controls autoplay loop style="display:none">
-		<source src="assets/audio/audio.wav" type="audio/wav">
-	</audio>
+		<!-- Audio -->
+		<audio controls autoplay loop style="display:none">
+		
+			<source src="assets/audio/audio.wav" type="audio/wav">
+	
+		</audio>
 
 	</body>
 </html>
